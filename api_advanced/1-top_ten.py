@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """
 A module that prints the titles of the top
